@@ -6,31 +6,30 @@ Business Insights 360 is a comprehensive dashboarding solution created using Pow
 **Key Features**
 
 **Finance View:**
-Profit and loss statements
-Cash flow analysis
-Revenue forecasting
+Profit and loss statements,
+Cash flow analysis,
+Revenue forecasting,
 Expense tracking
-Executive View:
 
 **Sales View:**
-Sales trends over time
-Product-wise sales performance
-Customer segmentation and analysis
+Sales trends over time,
+Product-wise sales performance,
+Customer segmentation and analysis,
 Sales funnel visualization
 
 **Marketing View:**
-Campaign effectiveness tracking
-Customer acquisition cost analysis
-Lead generation metrics
+Campaign effectiveness tracking,
+Customer acquisition cost analysis,
+Lead generation metrics,
 Social media engagement insights
 
 S**upply Chain View:**
-Inventory management metrics
-Supplier performance evaluation
-Procurement costs
+Inventory management metrics,
+Supplier performance evaluation,
+Procurement costs,
 Logistics and shipping data
 
 **Executive View**
-High-level overview of key performance indicators (KPIs)
-Business health summary
+High-level overview of key performance indicators (KPIs),
+Business health summary,
 Strategic decision-making support
