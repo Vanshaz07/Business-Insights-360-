@@ -1,7 +1,7 @@
 # Business-Insights-360-
 
 **Overview**
-Business Insights 360 is a comprehensive dashboarding solution created using PowerBI (e.g., Dash, Tableau, Power BI) to provide Alfred Tech with a unified view of their business operations. This project offers in-depth insights into various key areas, including Sales, Marketing, Supply Chain, Finance, and Executive-level metrics. The solution is developed by linking various datasets from various sources including MySQL, Excel and .csv.
+Business Insights 360 is a comprehensive dashboarding solution created using PowerBI to provide Alfred Tech with a unified view of their business operations. This project offers in-depth insights into various key areas, including Sales, Marketing, Supply Chain, Finance, and Executive-level metrics. The solution is developed by linking various datasets from various sources including MySQL, Excel and .csv.
 
 **Key Features**
 
